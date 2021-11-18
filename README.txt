@@ -1,0 +1,2 @@
+SCNU主题的marp模板
+具体效果可以参考demo的PDF文件
